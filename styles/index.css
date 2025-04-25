@@ -1,0 +1,54 @@
+@import url(portfolio.css);
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c31;
+}
+
+header {
+    margin: 2rem;
+    padding: 1rem;
+    /* background-color: rgb(0, 0, 0); */
+    display: flex;
+    justify-content: end;
+    border-bottom: 7px solid #7700ff;
+}
+
+header ul {
+    /* background-color: aqua; */
+    list-style: none;
+    display: flex;
+    align-items: end;
+    gap: 3rem;
+}
+
+header li {
+    display: inline;
+    /* border: 1px solid #ffffff; */
+    padding: 12px;
+    background-color:rgba(121, 48, 190, 0.551);
+}
+
+header li:hover {
+    display: inline;
+    padding: 12px;
+    background-color: rgba(134, 75, 189, 0.759);
+}
+
+header ul a {
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    color: #ffffff;
+}
+
+#icone-menu {
+    width: 100%;
+    text-align: start;
+    align-self: center;
+    font-size: 3rem;
+    text-decoration: none;
+    color: #ffffff;
+    /* background-color: #7700ff; */
+}

@@ -1,0 +1,29 @@
+#sobremim-page {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+#introducao-sobremim {
+    display: block;
+    text-align: center;
+    /* margin-top: vh; */
+    /* background-color: aqua; */
+    width: 60%;
+
+
+}
+
+#introducao-sobremim h1 {
+    margin-top: 0;
+    color: #13effa;
+    font-size: 3rem;
+}
+
+#introducao-sobremim h2 {
+    font-size: 1.7rem;
+}
+
+#introducao-sobremim p {
+    color: rgb(223, 223, 219);
+}

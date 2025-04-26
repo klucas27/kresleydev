@@ -1,9 +1,12 @@
 @import url(portfolio.css);
+@import url(sobremim.css);
+@import url(formacao.css);
 
 html {
     margin: 0;
     padding: 0;
     background-color: #1c1c31;
+    color: #ffffff;
 }
 
 header {

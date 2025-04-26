@@ -1,0 +1,41 @@
+#formacao-superior {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    /* justify-content: center; */
+    align-items: center;
+    /* text-align: start; */
+}
+.container h1 {
+    margin: 0;
+    font-size: 3.5rem;
+    align-self:normal;
+    /* text-align: start; */
+}
+
+.blocs-formations {
+    background-color:rgb(58, 20, 94);
+    width: 90%;
+    padding: 1.2rem;
+    border-radius: 25px;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.blocs-formations h2 {
+    margin: 0;
+    font-size: 2.2rem;
+    text-transform: uppercase;
+}
+
+.blocs-formations p {
+    color:#e0dddd;
+    font-size: 1.2rem;
+}
+
+.blocs-formations-adc {
+    background-color: rgb(58, 20, 94);
+    width: 20%;
+    text-align: center;
+}

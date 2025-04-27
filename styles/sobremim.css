@@ -9,21 +9,21 @@
     text-align: center;
     /* margin-top: vh; */
     /* background-color: aqua; */
-    width: 60%;
-
-
+    width: 65%;
 }
 
 #introducao-sobremim h1 {
-    margin-top: 0;
+    margin-top: 30px;
     color: #13effa;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 #introducao-sobremim h2 {
-    font-size: 1.7rem;
+    font-size: 2rem;
 }
 
 #introducao-sobremim p {
     color: rgb(223, 223, 219);
+    margin-top: 25px;
+    font-size: 1.2rem;
 }
